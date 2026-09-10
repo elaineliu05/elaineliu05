@@ -1,6 +1,6 @@
 **1. Which of our open ML Research Engineer roles are you interested in, in order?**
 
-General, model eval, then applied research. I'm most interested in taking
+General, model eval, then applied research. What I enjoy most about ML is digging through difficult real-world problems and building solutions with tangible impact. I'm especially interested in the General role because it would let me bring together what I’ve enjoyed most in research - from foundation models for spacecraft telemetry at NASA JPL to computer vision for deep-sea video at MBARI.
 
 **2. Describe an ML idea you were initially excited about but later decided was wrong or unimportant.**
 
